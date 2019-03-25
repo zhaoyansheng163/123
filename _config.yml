@@ -38,9 +38,6 @@ bookmarks:
   - name: reddit
     url: https://www.reddit.com/
     favicon: reddit.ico
-  - name: 前端周刊
-    url: http://www.feweekly.com/
-    favicon: feweekly.ico
   - name: Startup News
     url: http://news.dbanotes.net/
     favicon: startup-news.ico
