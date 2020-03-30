@@ -7,4 +7,12 @@ Live demo: http://123.hao99.cn
 ```shell
 npm install
 npm start
+npm run-script build
 ```
+
+打包或者：
+
+```shell
+npm run build
+```
+
